@@ -1,7 +1,7 @@
 # ASCII Art Portrait Using Python
 
 ## 📌 What's This Project About?
-This is the **Minor II assignment** for **Python and Full Stack** course at **LPU**. Basically, we had to create an **ASCII art portrait of Robert Downey Jr. / Tony Stark** using just **basic Python** - no fancy libraries allowed.
+we need to create an **ASCII art portrait of Robert Downey Jr. / Tony Stark** using just **basic Python** - no fancy libraries allowed.
 
 The whole thing just prints in the terminal using characters and loops. No PIL, no NumPy, no magic - just pure Python.
 
